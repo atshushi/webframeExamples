@@ -8,7 +8,7 @@
     "build": "vue-cli-service build",
     "serve": "vue-cli-service serve",
     "lint": "yarn eslint"
-  },    
+  },
   "dependencies": {
     "vue": "^2.6.14",
     "vue-router": "^3.5.3",
